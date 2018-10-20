@@ -1,3 +1,5 @@
 name: Siddarth Ijju
 markdown: kramdown
 theme: jekyll-theme-cayman
+permalink: /blog/:year/:month/:day/:title
+permalink: /projects/:title
